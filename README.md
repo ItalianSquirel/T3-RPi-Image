@@ -6,9 +6,10 @@ The T3 RPi Image is a pre-built Raspberry Pi operating system image that include
 
 The T3 RPi Image includes the following features:
 
-- Pre-installed and pre-configured programming tools, including Python 3, Node.js, NodeRed, PiShrink, RPi Imager, Thonny IDE and all of the NodeRed pallet nodes needed for the T3 Curriculum.
+- Pre-installed and pre-configured programming tools, including Python 3, Node.js, NodeRed, PiShrink, RPi Imager, Thonny IDE, VSCode and all of the NodeRed pallet nodes needed for the T3 Curriculum.
 - Automatic network configuration to enable easy access to the Raspberry Pi from other devices on the RPi network.
 - Access to the T3 Alliance curriculum and resources.
+- Custom Spash Screen
 
 ## Requirements
 
