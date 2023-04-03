@@ -14,7 +14,7 @@ The T3 RPi Image includes the following features:
 
 To use the T3 RPi Image, you will need the following:
 
-- A Raspberry Pi 3 or later model.
+- A Raspberry Pi 4 or later model.
 - An SD card with a capacity of at least 16GB.
 - A computer with an SD card reader.
 - A network connection.
@@ -23,7 +23,7 @@ To use the T3 RPi Image, you will need the following:
 
 To install the T3 RPi Image, follow these steps:
 
-1. Download the latest version of the T3 RPi Image from the .
+1. Download the latest version of the T3 RPi Image from this page (at the bottom).
 2. Insert the SD card into your computer's SD card reader.
 3. Use a tool like [balenaEtcher](https://www.balena.io/etcher/) to flash the T3 RPi Image to the SD card.
 4. Insert the SD card into your Raspberry Pi and power it on.
@@ -37,4 +37,11 @@ To access the T3 Alliance curriculum and resources, simply open a web browser an
 ## Contributing
 
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue on GitHub.
+
+## Downloads
+
+The latest version of the T3 RPi OS is version 4.1.1, released on January 23rd, 2023. You can download the image file from the links below:
+
+[T3OS v4.1.1 - Raspberry Pi 4 and later models](https://drive.google.com/file/d/121dIGrjwxx_cTNp85skDs7skIbydJrnM/view)
+[MakerspaceOS v4.1.1 - Raspberry Pi 4 and later models](https://drive.google.com/file/d/1qXoEfn85kMN2G2Pg7ajMKdpturnOStm-/view?usp=share_link)
 
